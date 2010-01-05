@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module SYSTEM "module.dtd" >
+<module>
+  <name>mymodule</name>
+  <displayName>Sample Magnolia module : simple-module</displayName>
+  <class>no.java.portal.MyModule</class>
+  <versionHandler>no.java.portal.MyModuleVersionHandler</versionHandler>
+  <version>1.0-SNAPSHOT</version>
+  
+  <dependencies>
+    <dependency>
+      <name>core</name>
+      <version>3.5.0/*</version>
+    </dependency>
+  </dependencies>
+</module>

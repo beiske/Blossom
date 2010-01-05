@@ -1,0 +1,10 @@
+/* this file is available as resource using the ${contextPath}/.resources/mymodule/sample.css url */
+body {
+    background-color: #669900;
+}
+
+p {
+    font-family: verdana, arial, sans-serif;
+    font-size: 12px;
+    color: white;
+}
