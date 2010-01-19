@@ -1,4 +1,4 @@
-<%@page import="de.lemonize.MyModule"%>
+<%@page import="no.java.portal.*"%>
 <%@page import="info.magnolia.module.ModuleRegistry"%>
 <html>
 <head>
